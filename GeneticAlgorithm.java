@@ -3,32 +3,6 @@
 //Project 4
 //4/7/22
 
-//both of these groups of averages are based on 3 runs with each thread/file combo, divided by 3.
-
-// small file                 this file gave the fitness of $3400 every time
-// 1 thread 1443
-// 2 threads 841
-// 3 threads 608
-// 4 threads 508
-// 5 threads 472
-// 6 threads 447
-// 7 threads 438
-// 8 threads 448
-// 9 threads 447
-// 10 threads 436
-
-// big file                   this file gave the fitness of $7600 every time except for 6 times across all tests
-// 1 thread 8840
-// 2 threads 4794
-// 3 threads 3432
-// 4 threads 2720
-// 5 threads 2305
-// 6 threads 1971
-// 7 threads 1767
-// 8 threads 1763
-// 9 threads 1758
-// 10 threads 1788
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
